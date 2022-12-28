@@ -1,0 +1,5 @@
+payload:
+  # > Chat OpenAI
+  # Client Patch
+  - DOMAIN-KEYWORD,openai.com
+  - DOMAIN-KEYWORD,chat.openai.com
